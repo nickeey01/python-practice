@@ -5,4 +5,4 @@ def check_even_odd(number):
     else:
         return "odd number"
     # Place any number to check if it is even or odd
-print(check_even_odd(5))
+print(check_even_odd(4))

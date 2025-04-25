@@ -5,5 +5,5 @@ def summation(number):
         total = total + int(i)
     return total
 
-print("Sum: " + str(summation(10101)))
+print("Sum: " + str(summation(12345)))
 
